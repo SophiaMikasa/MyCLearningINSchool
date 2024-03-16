@@ -1,0 +1,11 @@
+3,3,3
+This is an egg.#Y#2.000000
+This is a egg.#N#2.000000
+This is an apple.#Y#2.000000
+Gogo like ().#Mario#Minecraft#Terraria#Hollow knight#D 2.000000
+Gogo like ().#working#sleeping#watching#playing#B 2.000000
+He like #red#blue#yellow#black#A 2.000000
+Gogo like ____.(game)#Hollow knight#1.000000
+Gogo like ____.(life)#sleeping.#1.000000
+He like red#red#2.000000
+16.000000

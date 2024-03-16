@@ -1,0 +1,36 @@
+题目总览:
+一、判断题
+1.This is an egg.
+答案:Y    分值:2.000000
+
+2.This is a egg.
+答案:N    分值:2.000000
+
+3.This is an apple.
+答案:Y    分值:2.000000
+
+二、选择题
+1.Gogo like ().
+选项:A:Mario   B:Minecraft   C:Terraria   D:Hollow knight
+答案:D    分值:2.000000
+
+2.Gogo like ().
+选项:A:working   B:sleeping   C:watching   D:playing
+答案:B    分值:2.000000
+
+3.He like 
+选项:A:red   B:blue   C:yellow   D:black
+答案:A    分值:2.000000
+
+三、填空题
+1.Gogo like ____.(game)
+答案:Hollow knight    分值:1.000000
+
+2.Gogo like ____.(life)
+答案:sleeping.    分值:1.000000
+
+3.He like red
+答案:red    分值:2.000000
+
+目前满分值为：16.000000
+共有9道题目
